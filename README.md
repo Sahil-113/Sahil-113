@@ -1,23 +1,39 @@
 <h1 align="center">Hi 👋, I'm Sahil Singh</h1>
-<h3 align="center">A passionate Frontend as well as Backend developer from India</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate Computer Science student with a strong interest in Data Science, Data Analytics, Backend Development, and Competitive Programming. I love solving problems, learning new technologies, and building projects that make an impact.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-113&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-113" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-113" alt="sahil-113" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack E-Commerce website**
+<h2>🚀 About Me </h2>
+🎓 Education: 3rd-year Computer Science student
 
-- 🌱 I’m currently learning **Django, Reactjs**
+💻 Skills: Python, C, C++, SQL, JavaScript, HTML, CSS, React.js
 
-- 👯 I’m looking to collaborate on **Full Stack website**
+🔍 Interest Areas: Data Science, Machine Learning, Backend Development,Frontend Development, Full-Stack Development
 
-- 🤝 I’m looking for help with **House Price Prediction Model**
+📊 Certifications: Intermediate SQL (HackerRank), Python 5-star & Gold Badge (HackerRank)
 
-- 👨‍💻 All of my projects are available at [MyPortfolio.com](MyPortfolio.com)
+<h2>🏆 Experience: </h2>
 
-- 📝 I regularly write articles on [https://paste-app-seven-eosin.vercel.app/](https://paste-app-seven-eosin.vercel.app/)
+Data Science Intern at Hackveda
 
-- 💬 Ask me about **Machine Learning**
+Python Developer Intern at CodSoft
+
+Full Stack Web Developer at Techoctanet Private Limited
+
+<h2>📌 Projects</h2>
+🔹 Predictive Analysis using Machine Learning
+
+🔹 Real Estate Web Application
+
+🔹 E-commerce Website
+
+🔹 Personal Finance Dashboard using Power BI
+
+<h2>📈 DSA & Coding Practice</h2>
+
+I regularly solve LeetCode, HackerRank, and CodeChef problems to sharpen my problem-solving skills.
 
 - 📫 How to reach me **0173cs221113@gmail.com**
 
@@ -42,4 +58,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-113&show_icons=true&locale=en" alt="sahil-113" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-113&" alt="sahil-113" /></p>

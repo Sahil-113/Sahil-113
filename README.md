@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Sahil!;I'm+a+Django+Developer...;I'm+also+Python+Developer;And+I'm+a+proud+Indian+IN)](https://git.io/typing-svg)
+<hr>
 
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h1>Hey there 👋, I'm Sahil Singh</h1>
@@ -19,7 +23,7 @@
 🔍 Interest Areas: Data Science, Machine Learning, Backend Development,Frontend Development, Full-Stack Development
 
 📊 Certifications: Intermediate SQL (HackerRank), Python 5-star & Gold Badge (HackerRank)
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 <h2>🏆 Experience: </h2>
 
 Data Science Intern at Hackveda

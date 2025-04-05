@@ -8,7 +8,7 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h1>Hey there 👋, I'm Sahil Singh</h1>
 
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate Computer Science student with a strong interest in Data Science, Data Analytics, Backend Development, and Competitive Programming. I love solving problems, learning new technologies, and building projects that make an impact.</h3>
+<h3 align="center">Welcome to my GitHub profile!, I'm a passionate Computer Science student with a strong interest in Data Science, Data Analytics, Backend Development, and Competitive Programming. I love solving problems, learning new technologies, and building projects that make an impact.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-113&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-113" /> </p>
